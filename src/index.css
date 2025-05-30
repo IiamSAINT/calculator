@@ -56,3 +56,10 @@
 .button.delete:hover {
   background-color: #eab308;
 }
+
+.green{
+  background-color: hsl(120, 89%, 41%);
+}
+.black{
+  background-color: #000;
+}

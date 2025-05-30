@@ -59,7 +59,7 @@ const Calc = () => {
           </button>
         ))}
         <button
-          className="button clear"
+          className="button clear black"
           onClick={handleClear}
         >
           Clear
